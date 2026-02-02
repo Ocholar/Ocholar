@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Reagan Ochola (Ocholar)
+# 👋 Hi, I'm Reagan Ochola
 
 ### 🤖 Bridging Industrial Automation and AI Intelligence
 I am an **AI Engineer & Automation Specialist** dedicated to building intelligent systems that solve real-world industrial and agricultural challenges in Africa. From "Factory Brains" that remember every SOP to Computer Vision pipelines that never tire, I build tech that scales.
