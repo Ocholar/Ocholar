@@ -1,25 +1,4 @@
-er/docs/static/img/langchain_logo.png" alt="langchain" width="40" height="40"/>
-  </a>
-    <a href="https://openai.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="40" height="40"/>
-          </a>
-            <a href="https://n8n.io/" target="_blank" rel="noreferrer">
-                <img src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.svg" alt="n8n" width="40" height="40"/>
-                  </a>
-                    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-                        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-                          </a>
-                            <a href="https://heroku.com" target="_blank" rel="noreferrer">
-                                <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-                                  </a>
-                                    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
-                                        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/>
-                                          </a>
-                                            <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-                                                <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" alt="matplotlib" width="40" height="40"/>
-                                                  </a>
-                                                    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-                                                        <img <p align="center">
+<p align="center">
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663078384458/bfeGapfEMezeInsb.png" alt="Reagan Ochola Banner" width="100%">
 </p>
 
