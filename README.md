@@ -95,7 +95,7 @@ Turning data into actionable insights for the agricultural sector.
   <a href="https://ocholar.github.io/portfolio/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="mailto:reaganochola@gmail.com">
+  <a href="mailto:reaochola@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
