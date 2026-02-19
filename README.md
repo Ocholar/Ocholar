@@ -34,8 +34,8 @@ Turning data into actionable insights for the agricultural sector.
 ---
 
 ### 📈 GitHub Stats
-![Ocholar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ocholar&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ocholar&layout=compact&theme=tokyonight)
+![Ocholar's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Ocholar&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ocholar&layout=compact&theme=tokyonight)
 
 ---
 
