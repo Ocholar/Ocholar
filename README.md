@@ -95,7 +95,7 @@ Turning data into actionable insights for the agricultural sector.
   <a href="https://bazztech.co.ke" target="_blank">
     <img src="https://img.shields.io/badge/Bazztech_Networks-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Business">
   </a>
-  <a href="https://ocholar.github.io" target="_blank">
+  <a href="https://ocholar.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
 </p>
